@@ -9,9 +9,8 @@
                 MenuItems.style.maxHeight="0px";
             }
         }
-  
-        
-function gotoPage(select){
+function gotoPage(select)
+{
     window.location = select.value;
 }
     
